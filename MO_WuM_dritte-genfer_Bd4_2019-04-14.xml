@@ -1,0 +1,498 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dritte Genfer Ersetzungsreihe | 47 Wandel unter Menschen</title>
+                <author>Katharina Godler</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>2019-03-28T18:11:00</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>no publication statement available</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Written by OpenOffice</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation sameAs="Erste-Genfer-Ersetzungsreihe">
+                <listChange>
+                    <change n="1" status="note">
+                        <name rend="ed+RMusil">Sch zu Korr III 32-36, 40</name>
+                        <name rend="ed+RMusil">Revision: 47. Wandel unter Menschen</name>
+                        <date period="193907-193910"/>
+                        <label>Schmierblatt</label>
+                        <num>7</num>
+                        <listRef>
+                            <ref>Mappe V/2, S. /88-93;96</ref>
+                            <ref/>
+                        </listRef>
+                    </change>
+                    <change n="2" status="note">
+                        <name rend="ed+RMusil">Sch zu Korr III 40.1</name>
+                        <name rend="ed+RMusil">Überholung von 47. Wandel</name>
+                        <date period="193907-193910"/>
+                        <label>Schmierblatt</label>
+                        <num>8</num>
+                        <listRef>
+                            <ref>Mappe V/2, S. 97-104</ref>
+                            <ref/>
+                        </listRef>
+                    </change>
+                    <change n="3" status="note">
+                        <name rend="ed+RMusil">Sch zu Korr III 40.1-2</name>
+                        <name rend="ed+RMusil">47. Wandel unter Menschen (Entwurfsmatrix)</name>
+                        <date period="193907-193910"/>
+                        <label>Schmierblatt</label>
+                        <num>3</num>
+                        <listRef>
+                            <ref>Mappe V/2, S. 105-107</ref>
+                            <ref/>
+                        </listRef>
+                    </change>
+                    <change n="4" status="note">
+                        <name rend="ed+RMusil">Sch zu Korr III 57-64</name>
+                        <name rend="ed+RMusil">Bemerkungen zum Aufbau</name>
+                        <date period="193907-193910"/>
+                        <label>Studienblatt</label>
+                        <label>Schmierblatt</label>
+                        <num>8</num>
+                        <listRef>
+                            <ref>Mappe V/2, S. 150-157</ref>
+                        </listRef>
+                    </change>
+                </listChange>
+            </creation>
+            <creation sameAs="Zweite-Genfer-Erstetzungreihe">
+                <listChange>
+                    <change n="5" status="note">
+                        <name rend="ed+RMusil">Sch zu Korr III 88.1-2</name>
+                        <name rend="ed+RMusil">Überlegung I-III; Schmierblätter zur
+                            Ausführung</name>
+                        <date notBefore="1939-11-01"/>
+                        <label>Studienblatt</label>
+                        <label>Schmierblatt</label>
+                        <num>11</num>
+                        <listRef>
+                            <ref>Mappe V/1, S. 2-12</ref>
+                            <ref/>
+                        </listRef>
+                    </change>
+                    <change n="6" status="draft">
+                        <name rend="ed+RMusil">Sch zu Korr III 89-91</name>
+                        <name rend="ed+RMusil">Ausarbeitung auf Grund 88.1ff</name>
+                        <date period="19391208-19391219"/>
+                        <label>Kapitelfragment</label>
+                        <num>3</num>
+                        <listRef>
+                            <ref>Mappe V/1, S. 118-120</ref>
+                            <ref/>
+                        </listRef>
+                    </change>
+                    <change n="7" status="note">
+                        <name rend="ed+RMusil">Sch zu Korr III 88.5 1</name>
+                        <name rend="ed+RMusil">Übertrag 47</name>
+                        <date notBefore="1939-12-19"/>
+                        <label>Studienblatt</label>
+                        <num>1</num>
+                        <listRef>
+                            <ref>Mappe V/1, S. 47</ref>
+                        </listRef>
+                    </change>
+                </listChange>
+            </creation>
+            <creation sameAs="Dritte-Genfer-Erstetzungreihe">
+                <listChange>
+                    <change n="8" status="note">
+                        <name rend="ed+RMusil">Arbeitsmappe 121-132</name>
+                        <name rend="ed+RMusil">Notizheft 1 und 2</name>
+                        <name rend="ed+RMusil">Arbeitsmappe 24-27</name>
+                        <date period="194003-194104"/>
+                        <label>Schmierblatt</label>
+                        <num>32</num>
+                        <listRef>
+                            <ref>Mappe V/5, S. 33</ref>
+                            <ref>Mappe V/5, S. 34</ref>
+                            <ref>Mappe V/5, S. 35</ref>
+                            <ref>Mappe V/5, S. 36</ref>
+                            <ref>Mappe V/5, S. 37</ref>
+                            <ref>Mappe V/5, S. 38</ref>
+                            <ref>Mappe V/5, S. 39</ref>
+                            <ref>Mappe V/5, S. 40</ref>
+                            <ref>Mappe V/5, S. 41</ref>
+                            <ref>Mappe V/5, S. 42</ref>
+                            <ref>Mappe V/5, S. 43</ref>
+                            <ref>Mappe V/5, S. 44</ref>
+                            <ref>Mappe V/5, S. 45</ref>
+                            <ref>Mappe V/5, S. 46</ref>
+                            <ref>Mappe V/5, S. 47</ref>
+                            <ref>Mappe V/5, S. 48</ref>
+                            <ref>Mappe V/5, S. 49</ref>
+                            <ref>Mappe V/5, S. 50</ref>
+                            <ref>Mappe V/5, S. 51</ref>
+                            <ref>Mappe V/5, S. 52</ref>
+                            <ref>Mappe V/5, S. 53</ref>
+                            <ref>Mappe V/5, S. 54</ref>
+                            <ref>Mappe V/5, S. 55</ref>
+                            <ref>Mappe V/5, S. 56</ref>
+                            <ref>Mappe V/5, S. 57</ref>
+                            <ref>Mappe V/5, S. 58</ref>
+                            <ref>Mappe V/5, S. 59</ref>
+                            <ref>Mappe V/5, S. 60</ref>
+                            <ref>Mappe V/5, S. 61</ref>
+                            <ref>Mappe V/5, S. 62</ref>
+                            <ref>Mappe V/5, S. 63</ref>
+                            <ref>Mappe V/5, S. 64</ref>
+                        </listRef>
+                    </change>
+                    <change n="9" status="note_and_draft">
+                        <name rend="ed+RMusil">Korr IV 1-16</name>
+                        <name rend="ed+RMusil">Versuch zur Reinschrift und Studie Wahrscheinlichkeit
+                            und geschichtliches Geschehen</name>
+                        <date period="194003-194104"/>
+                        <label>Studienblatt</label>
+                        <label>Schmierblatt</label>
+                        <label>Kapitelfragment</label>
+                        <num>17</num>
+                        <listRef>
+                            <ref>Mappe V/5, S. 65-81</ref>
+                            <ref>...</ref>
+                        </listRef>
+                    </change>
+                    <change n="10" status="draft">
+                        <name rend="ed+RMusil">Korr V 1-2</name>
+                        <name rend="ed+RMusil">Entwurf des Beginns</name>
+                        <date period="194003-194104"/>
+                        <label>Kapitelfragment</label>
+                        <num>2</num>
+                        <listRef>
+                            <ref>Mappe V/5, S. 82</ref>
+                            <ref>Mappe V/5, S. 83</ref>
+                        </listRef>
+                    </change>
+                    <change n="11" status="draft">
+                        <name rend="ed+RMusil">47. Wandel = T 47 3-5</name>
+                        <date period="194003-194104"/>
+                        <label>Kapitelfragment</label>
+                        <num>4</num>
+                        <listRef>
+                            <ref>Mappe V/5, S. 30</ref>
+                            <ref>Mappe V/5, S. 31</ref>
+                            <ref>Mappe V/5, S. 32</ref>
+                            <ref>Mappe V/5, S. 99</ref>
+                        </listRef>
+                    </change>
+                    <change n="12" status="note">
+                        <name rend="ed+RMusil">Korr V 3-26</name>
+                        <name rend="ed+RMusil">Notizmaterial zu Durchschnitt/Durchschnittsmensch und
+                            zur Erarbeitung der Reinschrift von 47</name>
+                        <date period="194003-194104"/>
+                        <label>Schmierblatt</label>
+                        <num>34</num>
+                        <listRef>
+                            <ref>Mappe V/5, S. 84-98 u. S. 100-119</ref>
+                            <ref/>
+                        </listRef>
+                    </change>
+                    <change n="13" status="draft">
+                        <name rend="ed+RMusil">47. Wandel unter Menschen</name>
+                        <date period="194003-194104"/>
+                        <label>Entwurfsreinschrift</label>
+                        <num>8</num>
+                        <listRef>
+                            <ref
+                                target="http://musilonline.at/archiv/nachlass/textwiedergabe/mappe-v-6-1/"
+                                >Mappe V/6, S. 1</ref>
+                            <ref
+                                target="http://musilonline.at/archiv/nachlass/textwiedergabe/mappe-v-6-2/"
+                                >Mappe V/6, S. 2</ref>
+                            <ref
+                                target="http://musilonline.at/archiv/nachlass/textwiedergabe/mappe-v-6-3/"
+                                >Mappe V/6, S. 3</ref>
+                            <ref
+                                target="http://musilonline.at/archiv/nachlass/textwiedergabe/mappe-v-6-4/"
+                                >Mappe V/6, S. 4</ref>
+                            <ref
+                                target="http://musilonline.at/archiv/nachlass/textwiedergabe/mappe-v-6-5/"
+                                >Mappe V/6, S. 5</ref>
+                            <ref
+                                target="http://musilonline.at/archiv/nachlass/textwiedergabe/mappe-v-6-6/"
+                                >Mappe V/6, S. 6</ref>
+                            <ref
+                                target="http://musilonline.at/archiv/nachlass/textwiedergabe/mappe-v-6-7/"
+                                >Mappe V/6, S. 7</ref>
+                            <ref
+                                target="http://musilonline.at/archiv/nachlass/textwiedergabe/mappe-v-6-8/"
+                                >Mappe V/6, S. 8</ref>
+                        </listRef>
+                    </change>
+                </listChange>
+            </creation>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-03-28T18:11:00</date></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1" corresp="#1509300110"/>
+            <head type="chapter" n="47">Wandel unter Menschen</head>
+            <p><pb ed="GA" n="GA: Seite 379"/> In der Zeit, die nun folgte, zogen sie sich von ihren
+                Bekannten zurück und setzten sie dadurch in Verwunderung, daß sie eine Reise
+                vorschützten und sich auf keine Weise erreichen ließen.</p>
+            <p>Sie waren meist heimlich zu Hause, und wenn sie ausgingen, mieden sie Orte, wo sie
+                Menschen antreffen konnten, die demselben Gesellschaftskreis angehörten wie sie;
+                doch besuchten sie Vergnügungsstätten und kleine Theater, wo sie davor sicher zu
+                sein glaubten, und im allgemeinen folgten sie einfach, sobald sie das Haus
+                verließen, den Großstadtströmungen, die ein Bild der Bedürfnisse sind und mit
+                gezeitenmäßiger Genauigkeit die Massen, je nach der Stunde, irgendwo zusammenpressen
+                und anderswo abfangen. Sie überließen sich dem ohne bestimmte Absicht. Es vergnügte
+                sie, zu tun, was viele taten, und an einer Lebensführung teilzunehmen, die ihnen die
+                seelische Verantwortung für die eigene zeitweilig abnahm. Und noch nie war ihnen die
+                Stadt, worin sie lebten, so schön und fremd zugleich vorgekommen. Die Häuser boten
+                in ihrer Gesamtheit ein großes Bild dar, auch wenn sie im einzelnen, oder einzeln,
+                nicht schön waren; der Lärm strömte durch die hitzeverdünnte Luft wie ein an die
+                Dächer reichender Fluß dahin; in dem starken, von der Straßentiefe gedämpften Licht
+                sahen die Menschen leidenschaftlicher und geheimnisvoller aus, als sie es
+                wahrscheinlich verdienten. Alles klang, sah aus, roch – so unersetzlich <hi
+                    rend="color(#2d4a5c)"><pb ed="GA" n="GA: Seite 380"/></hi> und unvergeßlich, als
+                gäbe es zu verstehen, wie es sich in seiner Augenblicklichkeit selbst vorkomme; und
+                die Geschwister nahmen diese Einladung, sich der Welt zuzuwenden, nicht ungern
+                an.</p>
+            <p>Trotzdem geschah das nicht ohne Zurückhaltung, denn sie spürten den hindurchgehenden
+                Zwiespalt. Das Geheime und Unbestimmte, das sie selbst verband, obwohl sie nicht
+                frei davon sprechen konnten, sonderte sie von den anderen Menschen ab; aber die
+                gleiche Leidenschaft, die sie dauernd fühlten, weil sie sich nicht sowohl an einem
+                Verbot gebrochen hatte als vielmehr an einer Verheißung, hatte sie auch in einem
+                Zustand zurückgelassen, der Ähnlichkeit mit den schwülen Unterbrechungen einer
+                körperlichen Vereinigung besaß. Die Lust ohne Ausweg sank wieder in den Körper
+                zurück und erfüllte ihn mit einer Zärtlichkeit, die so unbestimmt war wie ein später
+                Herbsttag oder ein früher Frühlingstag. Und wenn sie auch gewiß nicht für jeden
+                Menschen und alle Welt ebenso empfanden wie für einander, so spürten sie doch den
+                schönen Schatten des »Wie es wäre« davon auf ihr Herz fallen, und dieses konnte der
+                sanften Täuschung weder völlig glauben, noch konnte es sich ihr völlig entziehen,
+                was ihm auch immer begegnete.</p>
+            <p>Das machte auf die freiwilligen Zwillingsgeschwister den Eindruck, daß sie durch ihre
+                Erwartung und ihre Askese empfindlich geworden seien für alle unausgeträumten
+                Zuneigungen der Welt, aber auch für die Schranken, die jedem Gefühl von der
+                Wirklichkeit und Wachheit gesetzt werden; und es wurde ihnen die eigentümlich
+                zweiseitige Beschaffenheit des Lebens sehr sichtbar, die jede große Bestrebung durch
+                eine niedrige dämpft. Sie bindet an jeden Fortschritt einen Rückschritt und <hi
+                    rend="color(#2d4a5c)"><pb ed="GA" n="GA: Seite 381"/></hi> an jede Kraft eine
+                Schwäche; sie gibt keinem ein Recht, das sie nicht einem anderen nähme, ordnet keine
+                Verwickelung, ohne neue Unordnung zu stiften, und sie scheint sogar das Erhabene nur
+                darum hervorzurufen, daß sie mit den Ehren, die ihm gebühren, bei der nächsten
+                Gelegenheit das Platte überhäufe. So verknüpft ein schier unlöslicher und vielleicht
+                tief notwendiger Zusammenhang alle hochgemuten menschlichen Bemühungen mit dem
+                Zustandekommen ihres Gegenteils und läßt das Leben – über alle anderen Gegensätze
+                und Parteiungen hinweg – für geistvolle, oder derart selbst nur halbvolle, Menschen
+                ziemlich schwer erträglich sein, treibt sie aber auch an, eine Erklärung dafür zu
+                suchen.</p>
+            <p>Dieses Aneinanderhaften der Ehr- und der Kehrseite des Lebens ist denn auch sehr
+                verschieden beurteilt worden. Fromme Menschenverächter haben darin einen Ausfluß der
+                irdischen Hinfälligkeit gesehen; Donnerkerle das saftigste Lendenstück des Lebens;
+                Durchschnittlinge fühlen sich in diesem Widerspruch so wohl wie zwischen ihrer
+                rechten und linken Hand; und wer vorsichtig denkt, sagt einfach, die Welt sei nicht
+                geschaffen, um menschlichen Begriffen zu entsprechen. Man hat es also als
+                Unvollkommenheit der Welt oder der menschlichen Vorstellungen angesehn, hat es
+                ebensowohl kindlich-traulich wie schwermütig oder trotziggleichgültig hingenommen,
+                und alles in allem kann es mehr als Temperamentssache denn als nüchtern ehrbare
+                Aufgabe der Vernunft gelten, darüber zu entscheiden. Nun aber, so gewiß die Welt
+                nicht geschaffen ist, um menschlichen Forderungen zu entsprechen, so gewiß sind die
+                menschlichen Begriffe geschaffen, um der Welt zu entsprechen, denn das <hi
+                    rend="color(#2d4a5c)"><pb ed="GA" n="GA: Seite 382"/></hi> ist ihre Aufgabe; und
+                warum sie es gerade im Bereich des Rechten und Schönen nie zuwegebringen, bleibt
+                damit schließlich doch eine seltsam offene Frage. Die planlosen Wege schienen es wie
+                ein Bilderbuch darzubieten und ließen Gespräche entstehn, die von des Blätterns lose
+                wechselnder Erregung begleitet waren.</p>
+            <p>Keines von diesen Gesprächen handelte seinen Gegenstand handgreiflich und vollständig
+                ab, jedes wandte sich unter der Zeit nach den verschiedensten Zusammenhängen; dabei
+                wurde der gedankliche Zusammenhang im ganzen immer breiter, die Gliederung nach
+                lebendigen Anlässen, die aufeinander folgten, versagte einmal ums andere vor der
+                übertretenden Flut angeregter Betrachtungen; und verlierend wie gewinnend ging das
+                lange weiter, ehe das Ergebnis unverkennbar zu sehen war. So bekannte sich Ulrich
+                auch – zufällig oder nicht, überzeugt oder aufs Geratewohl – als erstes zu der
+                Möglichkeit, daß sowohl die Schranke, die dem Gefühl gesetzt ist, als daß auch das
+                Vor und Zurück, oder zumindest Hin und Her, des Lebens, in einem gesagt, daß seine
+                geistige Unzuverlässigkeit, vielleicht eine nicht unnützliche Aufgabe zu erfüllen
+                habe, und zwar die der Erzeugung und Erhaltung eines mittleren Lebenszustands.</p>
+            <p>Er wollte nicht von der Welt verlangen, daß sie ein Lustgarten des Genies sei. Ihre
+                Geschichte ist nur in den Spitzen, wenn nicht Auswüchsen, eine des Genies und seiner
+                Werke; in der Hauptsache ist sie die des Durchschnittsmenschen. Er ist der Stoff,
+                mit dem sie arbeitet und der stets von neuem aus ihr wiederersteht. Vielleicht gab
+                das ein Augenblick der Ermüdung ein. Vielleicht dachte Ulrich bloß überhauf, daß
+                alles Mittelhohe und Durchschnittliche <hi rend="color(#2d4a5c)"><pb ed="GA"
+                        n="GA: Seite 383"/></hi> stämmig sei und beste Aussicht auf Erhaltung seiner
+                Art darbiete; man hätte annehmen müssen, daß es das erste Gesetz des Lebens sei,
+                sich selbst zu erhalten, und das möchte wohl stimmen. Sicherlich sprach bei diesem
+                Beginn aber auch eine andere Aussicht mit. Denn mag es sogar gewiß sein, daß die
+                menschliche Geschichte nicht gerade ihre Aufschwünge vom Durchschnittsmenschen
+                empfängt; alles in allem genommen, Genie und Dummheit, Heldentum und
+                Willenlosigkeit, ist sie eben doch eine Geschichte der Millionen Antriebe und
+                Widerstände, Eigenschaften, Entschlüsse, Einrichtungen, Leidenschaften, Erkenntnisse
+                und Irrtümer, die er von allen Seiten empfängt und nach jeder verteilt. In ihm und
+                ihr mischen sich die gleichen Elemente; und auf diese Art ist sie jedenfalls eine
+                Geschichte des Durchschnitts oder, je nachdem man es nehmen mag, der Durchschnitt
+                von Millionen Geschichten, und wenn sie denn auch ewig um das Mittelmäßige schwanken
+                müßte, was könnte am Ende unsinniger sein, als einem Durchschnitt seine
+                Durchschnittlichkeit zu verübeln!</p>
+            <p>In diesen Gedanken schob sich aber auch die Erinnerung an die Berechnung von
+                Durchschnitten ein, wie sie die Zufallsrechnung versteht – die Regeln der
+                Wahrscheinlichkeit beginnen schon in einer kalten, beinahe schamlosen Gelassenheit
+                damit, daß die Ereignisse bald so, bald anders, ja daß sie auch ins Gegenteil von
+                dem ausschlagen könnten, was sie sind. Zur Bildung und Festigung eines Durchschnitts
+                gehört es sodann, daß der höheren und besonderen Werte viel weniger als der
+                mittleren sind, ja daß sie fast niemals auftreten, und daß es auch von den
+                unverhältnismäßig geringen gilt. Die einen wie die andern bleiben besten- oder <hi
+                    rend="color(#2d4a5c)"><pb ed="GA" n="GA: Seite 384"/></hi> schlimmstenfalls
+                Randwerte, und zwar nicht nur nach der Anleitung der Rechnung, sondern auch in der
+                Erfahrung überall dort, wo zufallsähnliche Bedingungen herrschen. Diese Erfahrung
+                mag an Hagelversicherungen und Sterblichkeitsübersichten gewonnen sein; aber der
+                geringen Wahrscheinlichkeit der Randwerte entspricht es deutlich, daß auch im
+                Geschichtlichen einseitige Gestaltungen und die ungemischte Verwirklichung
+                überstiegener Forderungen selten von Dauer gewesen sind. Und sollte das in einer
+                Hinsicht halbschlächtig erscheinen, so ist es doch in anderer der Errettung der
+                Menschheit vor dem unternehmungssüchtigen Genie nicht minder wie vor der zu Taten
+                aufgeregten Dummheit oft genug zugute gekommen! Unwillkürlich übertrug Ulrich die
+                Anschauung der Wahrscheinlichkeit immer weiter auf geistige und geschichtliche
+                Ereignisse und den mechanischen Begriff der Durchschnittlichkeit auf den sittlichen;
+                und kam so auf die Zweiseitigkeit des Lebens zurück, bei der er angefangen hatte.
+                Denn die Schranken und der Wechsel der Ideen und Gefühle, ihre Vergeblichkeit, die
+                rätselhafte und trügerische Verbindung zwischen ihrem Sinn und der Verwirklichung
+                seines Gegenteils, alles und ähnliches ist als innewohnende Folge auch schon mit der
+                Annahme gegeben, daß eins so möglich sei wie das andere. Diese Annahme bedeutet aber
+                den Grundbegriff, woraus die Wahrscheinlichkeitsrechnung ihren Inhalt schöpft, und
+                ist deren Begriffsbestimmung des Zufalls; daß sie auch den Gang der Welt
+                kennzeichnet, erlaubt also den Schluß, daß dieser nicht viel anders ausfiele, als er
+                ist, wenn alles gleich nur dem Zufall überlassen bliebe.</p>
+            <p>Agathe fragte, ob es nicht die Wahrheit in launischer Absicht verdüstere und ein
+                romantischer <hi rend="color(#2d4a5c)"><pb ed="GA" n="GA: Seite 385"/></hi>
+                Pessimismus sei, wenn man den Weltlauf dem Zufall gleichstelle.</p>
+            <p>»Nichts weniger als das!« entgegnete dem Ulrich. »Wir haben bei der Vergeblichkeit
+                aller hochgemuten Erwartungen begonnen, und es hat uns gedeucht, daß sie ein
+                tückisches Geheimnis sei. Aber wenn wir sie jetzt mit den Regeln der
+                Wahrscheinlichkeit vergleichen, so erklären wir dieses Geheimnis, das man mit einem
+                Wort, das spöttisch mit seinem berühmten Gegenwort spielt, die ›prästabilierte
+                Disharmonie‹ der Schöpfung nennen könnte, überaus anspruchslos dadurch, daß einfach
+                nichts dawider geschieht! Die Entwicklung bleibt sich selbst überlassen, kein
+                geistig ordnendes Gesetz wird ihr auferlegt; sie folgt scheinbar dem Zufall; und
+                wenn dabei auch nicht das Wahre entstehen kann, so begründet dieselbe Voraussetzung
+                doch wenigstens das Wahrscheinliche! Zugleich erklären wir, aus dem
+                Wahrscheinlichen, aber auch die sich als einziges stabilierende
+                Durchschnittlichkeit, die allerenden ihre doch höchst unerwünschte Zunahme fühlen
+                läßt. Daran ist also nichts Romantisches, und vielleicht nicht einmal etwas
+                Verdüstertes; es wäre wohl, gern oder ungern, eher ein unternehmungslustiger
+                Versuch!«</p>
+            <p>Trotzdem wollte er darüber nicht mehr sagen und ließ das scheinbar geistreiche
+                Unternehmen auf sich beruhen, ohne über die Einleitung hinausgekommen zu sein. – Er
+                hatte das Gefühl, etwas Großes ungeschickt und umständlich berührt zu haben. Das
+                Große war die tiefe Zweideutigkeit der Welt, daß sie so zurück wie vorwärts zu gehen
+                scheint und bestürzend neben erhebend ist; und daß sie auf einen geistigen Menschen
+                einen anderen Eindruck schon deshalb nicht machen kann, weil <hi
+                    rend="color(#2d4a5c)"><pb ed="GA" n="GA: Seite 386"/></hi> ihre Geschichte eben
+                nicht die des bedeutenden, sondern doch offenbar die des Durchschnittsmenschen ist,
+                dessen verworrenes und zweideutiges Antlitz sich in ihr abprägt. Von Umständlichkeit
+                beschwert war hingegen, was dieser einfallsschnelle Beschluß berührte, durch den
+                Versuch worden, dem bekannten Wesen des Durchschnittsmenschen durch einen Vergleich
+                mit dem der Wahrscheinlichkeit einen Hintergrund von nicht ganz erforschter
+                Neuigkeit zu geben. Der Grundgedanke war wohl auch bei diesem Vergleich scheinbar
+                einfach: Denn das Durchschnittliche ist immer auch etwas Wahrscheinliches, und der
+                Durchschnittsmensch der Bodensatz aller Wahrscheinlichkeit. Verglich Ulrich aber,
+                was er gesagt hatte, mit dem, was davon noch zu sagen wäre, so verzagte er fast an
+                der Fortsetzung dessen, was er mit seiner Gegenüberstellung von Wahrscheinlichkeit
+                und Geschichte angefangen hatte.</p>
+            <p>Agathe sagte mit mutwilligem Zögern: »Die Hausmeisterin träumt vom Lotto und erhofft
+                sich einen Gewinn! Wenn ich also würdig gewesen sein sollte, dich zu verstehen, wäre
+                es die Aufgabe der Geschichte, einen immer durchschnittlicheren Menschenschlag zu
+                hinterlassen und sein Leben zu begründen, wofür vielleicht manches spricht, oder
+                doch raunt; und dazu sollte sie nichts Einfacheres und Verläßlicheres tun können,
+                als einfach dem Zufall zu folgen und seinem Gesetz die Verteilung und Mischung der
+                Ereignisse zu überlassen?« Ulrich nickte. »Es ist ein Wenn-so. Wenn die menschliche
+                Geschichte überhaupt eine Aufgabe hätte, und es diese wäre, dann könnte sie nicht
+                besser sein, als sie ist, und erreichte auf die seltsame Art dadurch ein Ziel, daß
+                sie keines hat!« Agathe lachte. »Und <hi rend="color(#2d4a5c)"><pb ed="GA"
+                        n="GA: Seite 387"/></hi> deswegen erzählst du, daß die niedrige Decke, unter
+                der man lebt, ›eine nicht unnützliche‹ Aufgabe zu erfüllen habe?« »Eine tief
+                notwendige Aufgabe, die Begünstigung des Durchschnitts!« bestätig te Ulrich. »Zu
+                diesem Zweck sorgt sie dafür, daß ein für allemal kein Gefühl und Wille in den
+                Himmel wächst!« »Geschähe doch lieber das Gegenteil!« meinte Agathe. »Dann sollte
+                mir nicht das Ohr vor Aufmerksamkeit rauh werden, ehe ich alles weiß!«</p>
+            <p>Ein Gespräch wie dieses über Genie, Durchschnitt und Wahrscheinlichkeit, dünkte
+                Agathe, weil es bloß den Verstand beschäftigte, ohne das Gemüt zu berühren,
+                verlorene Zeit zu sein. Nicht ganz so erging es Ulrich, obgleich er mit dem, was er
+                gesagt hatte, herzlich unzufrieden war. Nichts war daran fest als der Satz: wenn
+                etwas ein Zufallsspiel wäre, so zeigte das Ergebnis die gleiche Verteilung von
+                Treffern und Nieten wie das Leben. Aber daraus, daß der zweite Teil eines solchen
+                Bedingungssatzes die Wahrheit ist, läßt sich mitnichten auf die Wahrheit des ersten
+                schließen!</p>
+            <p>Die Umkehrbarkeit des Verhältnisses bedürfte eines genaueren Vergleichs, unglaubhaft
+                zu werden, der es auch erst ermöglichen müßte, Begriffe der Wahrscheinlichkeit auf
+                geschichtliche und geistige Ereignisse zu übertragen und zwei so verschiedene
+                Gesichtskreise einander gegenüberzustellen. Dazu hatte Ulrich nun keine Lust; aber
+                je mehr er die Unterlassung fühlte, desto sicherer wurde ihm die Wichtigkeit der
+                berührten Aufgabe bewußt. Nicht nur hat der zunehmende Einfluß geistig lockerer
+                Massen, der die Menschheit immer durchschnittlicher macht, jede Frage nach dem
+                Aufbau des Durchschnittlichen Bedeutung gewinnen lassen; sondern die Grundfrage,
+                welches Wesens das <hi rend="color(#2d4a5c)"><pb ed="GA" n="GA: Seite 388"/></hi>
+                Wahrscheinliche ist, scheint auch aus anderen Gründen, und darunter solchen, die
+                allgemein und geistiger Herkunft sind, immer mehr an die Stelle der Frage nach dem
+                Wesen der Wahrheit treten zu wollen, obgleich sie ursprünglich bloß ein
+                Handwerksmittel für die Lösung einzelner Aufgaben gewesen ist. Es hätte sich alles
+                auch mit den Worten ausdrücken lassen, daß nach und nach der »wahrscheinliche
+                Mensch« und das »wahrscheinliche Leben« anstelle des »wahren« Menschen und Lebens
+                emporzukommen begännen, die eitel Einbildung und Vortäuschung gewesen seien; wie
+                denn Ulrich etwas Ähnliches auch schon zuvor angedeutet, und gesagt hatte, daß die
+                ganze Frage nichts als die Folge einer fahrlässigen Entwicklung wäre. Offenbar
+                leuchtete ihm selbst der Sinn aller solchen Bemerkung noch nicht völlig ein, doch
+                verlieh ihnen gerade diese Schwäche die Eigenschaft, in weitem Umfang zu leuchten
+                wie Wetterlicht, und er kannte noch so viel Beispiele des gegenwärtigen Lebens und
+                Denkens, worauf sie paßten, daß er sich lebhaft aufgefordert sah, den gefühlhaften
+                Begriff von ihnen in einen klareren zu verwandeln. So fehlte es auch nicht an der
+                Notwendigkeit einer Fortsetzung, und er beschloß nun doch, sie bei schicklicherer
+                Gelegenheit nicht zu verabsäumen. Er mußte über seine Überraschung lächeln, als er
+                sich bei diesem Vorsatz schon auf bestem Wege erkannte, ohne es gewollt zu haben,
+                Agathe von etwas Altem zu unterrichten, das er früher in bedenklicher Laune oft die
+                »Welt des Seinesgleichen geschieht« genannt hatte. Es war die Welt der Unruhe ohne
+                Sinn; er nannte sie jetzt die des »wahrscheinlichen Menschen«. Mit aufgefrischter
+                Neugierde betrachtete er die Menschenströme, deren Ufern sie <hi
+                    rend="color(#2d4a5c)"><pb ed="GA" n="GA: Seite 389"/></hi> folgten und von deren
+                Leidenschaften, Gewohnheiten und fremden Genüssen sie von sich selbst abgezogen
+                wurden: es war die Welt dieser Leidenschaften und Genüsse, und nicht die einer
+                unausgeträumten Möglichkeit! So war es denn auch um deswillen die der Schranken, die
+                selbst das ausschweifende Gefühl in Grenzen setzen, und die des mittleren
+                Lebenszustands. Zum erstenmal dachte er nicht bloß gefühlvoll, sondern in der Art,
+                wie etwas Wirkliches erwartet wird, daran, daß sich der Unterschied, der es in einem
+                Fall dem weltlichen Gefühl unmöglich mache, zu Ruhe und bleibender Erfüllung zu
+                kommen, im andern eine fortschreitende und weltliche Bewegung zu finden, vielleicht
+                auf zwei grundverschiedene Zustände oder Arten des Gefühls zurückführen ließe.</p>
+            <p>Abbrechend, sagte er: »Sieh an!« und beide wurden sich des Augenscheins bewußt. Es
+                geschah, während sie einen bekannten, und wenn man so sagen darf, allgemein
+                geachteten Platz überquerten. Da stand die Neue Universität, ein nachgeahmter
+                Barockbau, der von kleinlichen Einzelheiten überladen war; nicht weit davon stand,
+                kostspielig und zweitürmig, eine »neugotische« Kirche, die wie ein gut gelungener
+                Fastnachtsscherz aussah; und den Hintergrund bildete, neben zwei ausdruckslosen zu
+                der Hochschule gehörenden Anstalten und einem Bankpalast, ein großes
+                düster-dürftiges Gerichts- und Gefangenenhaus, das mehrere Jahrzehnte älter war.
+                Flinkes und massiges Fuhrwerk durchkreuzte dieses Bild, und ein einziger Blick
+                vermochte sowohl die Gediegenheit des Gewordenen als auch die Vorbereitungen des
+                weiteren Gedeihens zu umfassen, und nicht minder zur Bewunderung der menschlichen
+                Tätigkeit aufzuregen als den Geist <hi rend="color(#2d4a5c)"><pb ed="GA"
+                        n="GA: Seite 390"/></hi> durch einen unmerklichen Bodensatz von
+                Nichtssagenheit zu vergiften. Und ohne eigentlich den Gesprächsgegenstand zu
+                wechseln, fuhr Ulrich fort: »Nimm an, daß sich eine Räuberbande der Weltherrschaft
+                bemächtigt hätte, mit nichts ausgestattet als den gröbsten Instinkten und
+                Grundsätzen! Nach einiger Zeit erwüchsen auch auf diesem wilden Boden geistige
+                Schöpfungen! Und wieder über eine Zeit, wenn der Geist sich ausgebildet hätte,
+                stünde er sich schon selbst im Wege! Die Ernte wächst, und ihr Gehalt vermindert
+                sich; als ob die Früchte nach Schatten schmeckten, wenn alle Äste voll sind!« – Er
+                fragte nicht, warum. Er hatte das Gleichnis einfach gewählt, um auszudrücken, er
+                meine, daß sich das meiste von dem, was sich Kultur nenne, zwischen dem Zustand
+                einer Räuberbande und dem müßiger Reife befinde; denn war es so, dann mochte es doch
+                auch eine Entschuldigung für all das Gespräch sein, in das er abgelenkt worden war,
+                obwohl ein zärtlicher erster Anhauch den Anfang gebildet hatte.</p>
+        </body>
+    </text>
+</TEI>
